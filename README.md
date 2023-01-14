@@ -35,7 +35,7 @@ service cloud.firestore {
 ```
 
 # Screens
-<img src="/Screens/screen-01.png" alt="screen-01" width="256" hspace="3"/><img src="/Screens/screen-02.png" alt="screen-02" width="256" hspace="3"/><img src="/Screens/screen-03.png" alt="screen-03" width="256" hspace="3"/><img src="/Screens/screen-04.png" alt="screen-04" width="256" hspace="3"/><img src="/Screens/screen-05.png" alt="screen-05" width="256" hspace="3"/><img src="/Screens/screen-06.png" alt="screen-06" width="256" hspace="3"/><img src="/Screens/screen-07.png" alt="screen-07" width="256" hspace="3"/>
+<img src="/Screens/screen-01.png" alt="screen-01" width="256" hspace="3"/><img src="/Screens/screen-02.png" alt="screen-02" width="256" hspace="3"/><img src="/Screens/screen-03.png" alt="screen-03" width="256" hspace="3"/><img src="/Screens/screen-04.png" alt="screen-04" width="256" hspace="3"/><img src="/Screens/screen-05.png" alt="screen-05" width="256" hspace="3"/><img src="/Screens/screen-07.png" alt="screen-07" width="256" hspace="3"/>
 
 # 🏆 Awards
 ### Ranking #Dev: Global TOP 200 ([Certificate](https://leetcode.com/sergeyleschev/))
